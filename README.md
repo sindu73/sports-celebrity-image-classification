@@ -25,7 +25,7 @@ The goal of this project is to classify images of well-known *sports celebrities
   - Raw pixel values (scaled face image)
   - Wavelet-transformed image features into a single feature vector.
 
-## 🤖 Model Training
+## Model Training
 
 - Used GridSearchCV with multiple classifiers (like SVM, Random Forest, Logistic Regression) to find the best-performing model.
 - Final model is trained.
